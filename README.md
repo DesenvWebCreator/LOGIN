@@ -5,7 +5,7 @@ Projeto HTML5 W3.CSS PHP
 Este é o meu segundo projeto de portfólio, focado na manipulação de formulários e lógica de autenticação utilizando PHP.
 
 ## 🔗 Link para o Projeto
-[Visualize o formulário online aqui(https://login-tp8f.onrender.com))
+[Visualize o formulário online aqui(https://login-tp8f.onrender.com)
 
 ## 🛠️ Tecnologias Utilizadas
 * **Linguagem:** PHP (Lógica de processamento de dados)
